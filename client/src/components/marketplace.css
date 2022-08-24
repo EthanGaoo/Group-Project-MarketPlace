@@ -1,0 +1,14 @@
+
+.carousel-slider {
+    margin-left: 10% !important;
+}
+
+li.thumb {
+    height: 10rem !important;
+}
+
+@media (min-width: 600px) {
+    .carousel-slider {
+        margin-left: 10% !important;
+    }
+}
